@@ -12,7 +12,7 @@ Documentation of some Controls, Automation, and Machine  projects that I've comp
     <td> This project aimed design and build a modular hydrostatic testing station for a manufacturing shop floor and do away with sharing a test bench with performance testing and taking up bench time. 
       <br><br>
       <ul>
-        <li> Designed and commissioned a custom automated hydro-testing workcell from the ground up, including hydraulic schematics, control panel architecture, and Mitsubishi FX-series PLC logic, reducing equipment                   testing time by 20% and lifted production bottleneck. </li>
+        <li> Designed and tested a custom automated hydro-testing work station from the ground up, including hydraulic schematics, control panel architecture, and Mitsubishi FX-series PLC logic, reducing equipment                   testing time by 20% and lifted production bottleneck to maintain production output targets. </li>
         <li> Programmed Mitsubishi PLC ladder logic to manage bi-directional motor control, implementing a fail-safe set/reset interlock circuit to prevent contactor switching while the motor was energized, eliminating                 the risk of electrical faults and mechanical wear. </li>
         <li> Integrated flow-sensing technology for automated shut-off, utilizing a flow switch input to trigger PLC logic that halts the fill process precisely at capacity, preventing overfills and fluid waste. </li>
         <li> Sized and selected all electrical and hydraulic components—including breakers, contactors, tactile interfaces, and hydraulic pumps—ensuring optimal performance and compliance with system requirements. </li>

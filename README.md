@@ -16,8 +16,11 @@ Documentation of some Controls, Automation, and Machine  projects that I've comp
   <li>Integrated flow-sensing technology for automated shut-off, utilizing a flow switch input to trigger PLC logic that halts the fill process precisely at capacity, preventing overfills and fluid waste.</li>
   <li>Sized and selected all electrical and hydraulic components—including breakers, contactors, tactile interfaces, and hydraulic pumps—ensuring optimal performance and compliance with system requirements.</li>
   <li>Authored and executed the electrical safety strategy for the system, interpreting NEC codes to properly ground motors and chassis and bond grounding buses, successfully passing internal safety audits and mitigating shock/ground-fault hazards. </li>
-</ul>
+      </ul>
     </td>
+  </tr>
+</table>
+
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
 [Control System for Hydrostatic Test Bench for Pumping Equipment](https://github.com/aariefm) | This project aimed design and build a modular hydrostatic testing station for a manufacturing shop floor and do away with sharing a test bench with performance testing and taking up bench time.

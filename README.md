@@ -1,6 +1,11 @@
 # Automation, Controls & Machine Engineering Portfolio
 Documentation of some Controls, Automation, and Machine  projects that I've completed
 
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Description</th>
+  </tr>
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
